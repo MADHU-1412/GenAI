@@ -1,0 +1,5 @@
+Large Language Models, or LLMs, are advanced AI systems that understand and generate human-like text.
+They are trained on massive amounts of data to answer questions, write content, and solve problems.
+LLMs power tools like chatbots, translators, and coding assistants we use every day.
+They are transforming education, healthcare, and business through automation and intelligence.
+In the future, LLMs will play a major role in how humans interact with technology.
